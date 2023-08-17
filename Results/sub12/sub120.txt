@@ -1,0 +1,7 @@
+
+videoName	rotAngle	videoLength	firstTargets	secondTargets	clickedItemsfromFirstVid	clickedItemsfromSecondVid	respnseTimeFirstVid	respnseTimeSecondVid
+OB_2,7_10_1_1_0_67.5.avi	278	110	0	34	0	34	0	6.3046 7.065 
+OC_2,7_10_1_229_0_247.5.avi	117	110	4	1	4	1	2.4518 	3.4599 
+OB_OC_2,7_10_1_344_0_157.5.avi	283	110	13	0	13	0	4.4635 6.3833 	0
+OB_4,7_10_1_229_0_22.5.avi	170	110	12	14	22121	14	2.4559 3.2388 3.8492 4.7677 5.3532 	6.1994 9.8487 
+

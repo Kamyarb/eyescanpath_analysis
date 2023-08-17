@@ -1,0 +1,95 @@
+{
+  "flags": {},
+  "shapes": [
+    {
+      "label": "1",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          553,
+          172
+        ],
+        [
+          584,
+          280
+        ],
+        [
+          602,
+          273
+        ]
+      ]
+    },
+    {
+      "label": "2",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          636,
+          331
+        ],
+        [
+          656,
+          334
+        ],
+        [
+          640,
+          448
+        ]
+      ]
+    },
+    {
+      "label": "3",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          513,
+          442
+        ],
+        [
+          584,
+          530
+        ],
+        [
+          594,
+          517
+        ]
+      ]
+    },
+    {
+      "label": "4",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          480,
+          618
+        ],
+        [
+          567,
+          539
+        ],
+        [
+          580,
+          555
+        ]
+      ]
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "..\\img4.jpg",
+  "imageData": null
+}

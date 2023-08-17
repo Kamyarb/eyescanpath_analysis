@@ -1,0 +1,107 @@
+{
+  "flags": {},
+  "shapes": [
+    {
+      "label": "1",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          147,
+          235
+        ],
+        [
+          167,
+          241
+        ],
+        [
+          148,
+          289
+        ],
+        [
+          138,
+          333
+        ],
+        [
+          128,
+          356
+        ],
+        [
+          139,
+          285
+        ]
+      ]
+    },
+    {
+      "label": "3",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          583,
+          205
+        ],
+        [
+          570,
+          219
+        ],
+        [
+          644,
+          299
+        ]
+      ]
+    },
+    {
+      "label": "2",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          633,
+          372
+        ],
+        [
+          649,
+          381
+        ],
+        [
+          594,
+          477
+        ]
+      ]
+    },
+    {
+      "label": "4",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          234,
+          620
+        ],
+        [
+          248,
+          634
+        ],
+        [
+          332,
+          555
+        ]
+      ]
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "..\\img246.jpg",
+  "imageData": null
+}
